@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alireza NIKKHAH
+- 👋🏼 Hi, I’m Alireza NIKKHAH
 - 👀 I’m interested in Coding and Camping
 - 🌱 I’m currently learning Django, NestJS, C
 - 💞️ I’m looking to collaborate on Intressting projects
